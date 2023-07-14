@@ -32,7 +32,7 @@ body {
 /*--------------HEADER-------------*/
 .header-logo {
     color: var(--iris, #4d5ae5);
-    font-family: "Raleway", sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 800;
     line-height: 1.17;
@@ -42,7 +42,7 @@ body {
 
 .header-link {
     color: var(--navyblue, #2e2f42);
-    font-family: Raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 800;
     line-height: 1.17;
@@ -182,7 +182,7 @@ body {
 }
 
 .footer-logo {
-    font-family: "Raleway", sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: var(--iris, #4d5ae5);
     font-size: 18px;
     font-weight: 800;
@@ -192,7 +192,7 @@ body {
 }
 
 .footer-link {
-    font-family: "Raleway", sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: var(--cloud, #f4f4fd);
     font-size: 18px;
     font-weight: 800;
