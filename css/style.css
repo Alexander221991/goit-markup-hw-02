@@ -210,6 +210,10 @@ body {
 
 
 /* ------------------PORTFOLIO----------------- */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
 
 .portfolio-btn {
     background-color: var(--cloud, #F4F4FD);
@@ -224,7 +228,11 @@ body {
 
 .portfolio-btn:hover,
 .portfolio-btn:focus {
-    color: #FFFFFF;
+    color: #fff;
+}
+
+.address{
+    font-style: normal;
 }
 
 .portfolio-subtitle {
