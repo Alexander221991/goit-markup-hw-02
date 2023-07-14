@@ -60,13 +60,14 @@ body {
 }
 
 .header-list-link:hover,
-.header-list-link:focus{
+.header-list-link:focus {
     color: var(--ocean, #404BBF);
 }
 
-.adress{
+.adress {
     font-style: normal
 }
+
 .address-list-link {
     color: var(--slate, #434455);
     font-size: 16px;
@@ -191,6 +192,7 @@ body {
 }
 
 .footer-link {
+    font-family: "Raleway", sans-serif;
     color: var(--cloud, #f4f4fd);
     font-size: 18px;
     font-weight: 800;
@@ -229,10 +231,11 @@ body {
 
 .portfolio-btn:hover,
 .portfolio-btn:focus {
-    color: #404BBF;
+    color: #fff;
+    background-color: #404BBF;
 }
 
-.address{
+.address {
     font-style: normal;
 }
 
